@@ -5,7 +5,7 @@
     title             = "ekusa's blog"
     weight            = 1
 
-[zh-cn]
+[zh]
     languageName      = "简体中文"
     languagedirection = "ltr"
     title             = "绘草的博客"
