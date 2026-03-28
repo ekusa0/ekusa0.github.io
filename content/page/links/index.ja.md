@@ -1,5 +1,6 @@
 ---
 title: "リンク"
+slug: "links"
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
